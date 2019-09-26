@@ -30,7 +30,7 @@
   6. Each column should have some input. we must not put blank for samples. 
   7. The file size can be reduced. We can achieve the comparison between two species for multiple years by keeping only two files, one for Cuni and one for Chippo.
   8. Yellow notebook for map and details must include in the data file.
-  9. Graph must explain the variable name. What variables in the x-axis and y-axis.
+  9. Graph must explain the variable name. What variables are in the x-axis and y-axis.
   
 # Table Template
  Data File 1 : Chippo

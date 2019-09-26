@@ -1,4 +1,4 @@
-# Welcome to My Repository
+# Welcome to the course ISQA 8086 - Data to Decision
 
 The repository contains files related to course **_ISQA 8086-Data to decision_**
 

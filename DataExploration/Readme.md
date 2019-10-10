@@ -6,15 +6,19 @@
   
 # List of data files 
     1. 2017 Weather Observations (1).xlsx
+
+# Scatter Plots
     
 ### Two scatter plots of two different variables
- ![Scatter plots of variable month and current]()
+ ![Scatter plots of variable month and current](https://github.com/Nishi-Mahato/8086-Assignments/blob/master/DataExploration/Rplot.png)
+ 
+ ![Scatter Plots of variable High and Low](https://github.com/Nishi-Mahato/8086-Assignments/blob/master/DataExploration/Rplot01.png)
    
 ### One scatter plot of two variables with a trend line added in
-
+ ![Scatter Plots with a trend line](https://github.com/Nishi-Mahato/8086-Assignments/blob/master/DataExploration/Rplot03.png)
   
 ### One faceted plot of two variables, properly labeled
-
+ ![Faceted plot ](https://github.com/Nishi-Mahato/8086-Assignments/blob/master/DataExploration/Rplot02.png)
 
 # External links for more information
  [R for Data Science: Data Visualisation](https://r4ds.had.co.nz/data-visualisation.html)

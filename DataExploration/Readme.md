@@ -13,7 +13,8 @@
  ![Scatter plots of variable month and current](https://github.com/Nishi-Mahato/8086-Assignments/blob/master/DataExploration/Rplot.png)
  
  Code :
-    * ggplot(data=test)+
+ 
+    ggplot(data=test)+
     
     + geom_point(mapping=aes(x=Month, y=Current), color = "blue")
     
@@ -23,7 +24,8 @@
  ![Scatter Plots of variable High and Low](https://github.com/Nishi-Mahato/8086-Assignments/blob/master/DataExploration/Rplot01.png)
    
  Code :
-    * ggplot(data=test)+
+ 
+    ggplot(data=test)+
     
     + geom_smooth(mapping=aes(x=High, y=Low), color = "blue")
     
@@ -33,7 +35,8 @@
  ![Scatter Plots with a trend line](https://github.com/Nishi-Mahato/8086-Assignments/blob/master/DataExploration/Rplot03.png)
   
  Code :
-    * ggplot(data= test,mapping =aes(x=High, y = Low))+
+ 
+    ggplot(data= test,mapping =aes(x=High, y = Low))+
     
     + geom_point()+
     
@@ -46,7 +49,8 @@
  ![Faceted plot ](https://github.com/Nishi-Mahato/8086-Assignments/blob/master/DataExploration/Rplot02.png)
  
  Code :
-    * ggplot(data=test)+
+ 
+    ggplot(data=test)+
     
     + geom_point(mapping=aes(x=Precip, y= 'New Snow'))+
     

@@ -5,7 +5,7 @@
   Some initial data exploration of our project using R. 
   
 # List of data files 
-    1. 2017 Weather Observations (1).xlsx
+  * [2017 Weather Observations (1).xlsx](https://github.com/Nishi-Mahato/8086-Assignments/blob/master/DataExploration/2017%20Weather%20Observations%20(1).xlsx)
 
 # Scatter Plots
     
